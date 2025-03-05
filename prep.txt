@@ -1,3 +1,4 @@
 hello all
 this file has preparation for creating app
 go through the file
+checking for merge
