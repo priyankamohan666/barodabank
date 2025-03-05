@@ -2,3 +2,4 @@ hello all
 this file has preparation for creating app
 go through the file
 this line is added in stage branch
+checking for merge master
